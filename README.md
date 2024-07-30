@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **12Aneeq/12Aneeq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:<br>
@@ -11,4 +11,4 @@ Here are some ideas to get you started:<br>
 - 📫 How to reach me: <br>
 LinkedIn: https://www.linkedin.com/in/ska12/ <br>
 - ⚡ Fun fact: I like playing COD and Chess, but has never participated in tournaments.<br>
--->
+
