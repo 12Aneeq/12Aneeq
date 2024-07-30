@@ -1,4 +1,4 @@
-## <center> Hi there 👋 <center>
+## <center> Hi there 👋 <\center>
 
 <br>
 - 🔭 I’m currently working on myslef to build my skills<br><br>
