@@ -19,17 +19,9 @@
 ## 🛠️ Skills
 
 - **Languages:** Python, Java  
-- **Tools:** Git, GitHub, Selenium, FastAPI (learning)  
+- **Tools:** Git, GitHub, Selenium, AWS, FastAPI (learning)  
 - **Concepts:** Automation, APIs, Data Structures  
 - **Learning Next:** Machine Learning, RAG, SQL  
-
----
-
-## 📌 Projects (Coming Soon)
-
-- 🚀 AI-based Automation Projects  
-- 📊 Data Processing & Visualization Tools  
-- 🌐 Web + API-based Applications  
 
 ---
 
