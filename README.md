@@ -62,13 +62,7 @@
 - Automation Frameworks  
 
 ---
-## 📊 GitHub Stats
 
-![Aneeq's GitHub stats](https://github-readme-stats.vercel.app/api?username=12Aneeq&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=12Aneeq&layout=compact)
-
----
 ## 🌐 Connect With Me  
 
 - LinkedIn: www.linkedin.com/in/ska12
