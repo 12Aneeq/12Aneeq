@@ -1,30 +1,68 @@
-# Hi, I'm Aneeq 👋
+# Hi, I'm Aneeq 👋  
 
-💡 Aspiring **Python & AI Automation Engineer**  
-🚀 Passionate about building real-world automation projects and improving problem-solving skills  
+💡 Aspiring Python & AI Automation Engineer  
+🚀 Passionate about building real-world automation & AI-powered applications  
+📚 Continuously learning and improving problem-solving skills through projects  
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 - 🎓 Graduated with B.E from Prathyusha Engineering College  
-- 🔧 Currently working as a System Engineer  
-- 📚 Learning:
-  - Python Automation
-  - AI/ML fundamentals  
-- 🤖 Practicing RPA and building automation projects  
+- 💼 Currently working as a System Engineer  
+- 🤖 Interested in Automation, AI/ML, and Software Development  
+- 🛠️ Building hands-on projects using Python, APIs, AI tools, and Selenium  
+- 📈 Exploring AI-powered testing, RAG systems, and intelligent automation  
+- 🌱 Currently learning:
+  - FastAPI  
+  - AI/ML Fundamentals  
+  - RAG Applications  
+  - SQL & Backend Development  
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack  
 
-- **Languages:** Python, Java  
-- **Tools:** Git, GitHub, Selenium, AWS, FastAPI (learning)  
-- **Concepts:** Automation, APIs, Data Structures  
-- **Learning Next:** Machine Learning, RAG, SQL  
+### 👨‍💻 Languages  
+- Python  
+- Java  
+- SQL (Learning)  
+
+### ⚙️ Tools & Frameworks  
+- Git & GitHub  
+- Selenium  
+- FastAPI  
+- Streamlit  
+- Ollama (Local LLMs)  
+- VS Code  
+
+### 🤖 AI / Automation  
+- AI-powered Automation  
+- Selenium Automation  
+- REST APIs  
+- JSON Handling  
+- Prompt Engineering  
+- RAG Basics  
+
+### ☁️ Currently Exploring  
+- Machine Learning  
+- Generative AI Applications  
+- Cloud Deployment  
+- Backend APIs  
 
 ---
 
-## 🔗 Connect With Me
-<br>
- 📫 Reach me on LinkedIn: https://www.linkedin.com/in/ska12/ <br><br>
+## 📚 Areas of Interest  
+
+- AI Automation  
+- Software Development  
+- Backend Development  
+- Embedded Systems  
+- Intelligent Testing Systems  
+- Automation Frameworks  
+
+---
+
+## 🌐 Connect With Me  
+
+- LinkedIn: www.linkedin.com/in/ska12
