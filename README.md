@@ -1,68 +1,18 @@
-# Hi, I'm Aneeq 👋  
+# 💫 About Me:
+Hi, I'm Aneeq 👋<br>💡 Aspiring Python & AI Automation Engineer<br>🚀 Passionate about building real-world automation & AI-powered applications<br>📚 Continuously learning and improving problem-solving skills through projects<br><br>👨‍💻 About Me<br>🎓 Graduated with B.E from Prathyusha Engineering College<br>💼 Currently working as a System Engineer<br>🤖 Interested in Automation, AI/ML, and Software Development<br>🛠️ Building hands-on projects using Python, APIs, AI tools, and Selenium<br>📈 Exploring AI-powered testing, RAG systems, and intelligent automation<br><br>🌱 Currently learning:<br>* FastAPI<br>* AI/ML Fundamentals<br>* RAG Applications<br>* SQL & Backend Development<br><br>⚙️ Tools & Frameworks<br>* Git & GitHub<br>* Selenium<br>* FastAPI<br>* Streamlit<br>* Ollama (Local LLMs)<br>* VS Code<br><br>🤖 AI / Automation<br>* AI-powered Automation<br>* Selenium Automation<br>* REST APIs<br>* JSON Handling<br>* Prompt Engineering<br>* RAG Basics<br><br>🌐 Connect With Me<br>LinkedIn: www.linkedin.com/in/ska12
 
-💡 Aspiring Python & AI Automation Engineer  
-🚀 Passionate about building real-world automation & AI-powered applications  
-📚 Continuously learning and improving problem-solving skills through projects  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ska12) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aneeqsyed12@gmail.com) 
 
-## 👨‍💻 About Me  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=flat&logo=Amazon%20DynamoDB&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=flat&logo=jinja&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=12Aneeq&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=12Aneeq&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=12Aneeq&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🎓 Graduated with B.E from Prathyusha Engineering College  
-- 💼 Currently working as a System Engineer  
-- 🤖 Interested in Automation, AI/ML, and Software Development  
-- 🛠️ Building hands-on projects using Python, APIs, AI tools, and Selenium  
-- 📈 Exploring AI-powered testing, RAG systems, and intelligent automation  
-- 🌱 Currently learning:
-  - FastAPI  
-  - AI/ML Fundamentals  
-  - RAG Applications  
-  - SQL & Backend Development  
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
----
-
-## 🚀 Tech Stack  
-
-### 👨‍💻 Languages  
-- Python  
-- Java  
-- SQL (Learning)  
-
-### ⚙️ Tools & Frameworks  
-- Git & GitHub  
-- Selenium  
-- FastAPI  
-- Streamlit  
-- Ollama (Local LLMs)  
-- VS Code  
-
-### 🤖 AI / Automation  
-- AI-powered Automation  
-- Selenium Automation  
-- REST APIs  
-- JSON Handling  
-- Prompt Engineering  
-- RAG Basics  
-
-### ☁️ Currently Exploring  
-- Machine Learning  
-- Generative AI Applications  
-- Cloud Deployment  
-- Backend APIs  
-
----
-
-## 📚 Areas of Interest  
-
-- AI Automation  
-- Software Development  
-- Backend Development  
-- Embedded Systems  
-- Intelligent Testing Systems  
-- Automation Frameworks  
-
----
-
-## 🌐 Connect With Me  
-
-- LinkedIn: www.linkedin.com/in/ska12
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
